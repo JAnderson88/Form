@@ -16,7 +16,6 @@
 .sidebar{
     position: absolute;
     display: inline-block;
-    
     width: 30%;
     height: 700px;
     border-right: 1px solid black;
